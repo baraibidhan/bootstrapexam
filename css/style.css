@@ -1,0 +1,164 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/* header part start*/
+header{
+	width: 100%;
+	float: left;
+	background: snow white;
+}
+.two nav ul{
+	list-style: none;
+}
+.one{
+	margin: 20px 0;
+}
+.two{
+	margin: 20px 0;
+}
+.two nav ul li{
+	display: inline-block;
+	padding: 15px;
+
+}
+.two nav ul li a{
+	text-decoration: none;
+	color: black;
+}
+/* header part END*/
+/*banner part start*/
+.banner{
+	width: 100%;
+	float: left;
+	background: url(../img/banner.png) center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.three{
+	text-align: center;
+}
+.three h1{
+	color:cyan;
+	margin-top: 150px;
+	
+}
+.art{
+	font-size:x-large;
+	color: cyan;
+	margin-bottom: 20px;
+}
+.btn-one{
+	margin-bottom: 150px;
+	background:#99C50A;
+	border: 0 solid;
+}
+/*banner part End*/
+/*works part start*/
+.works{
+	width: 100%;
+	float: left;
+	background:white;
+
+}
+.four{
+	text-align: center;
+
+}
+.pic-two{
+	margin-top: 100px;
+}
+.four h2{
+	margin: 30px 0;
+}
+.four p{
+	margin-bottom: 100px;
+}
+/*works part END*/
+/*Find part start*/
+.find{
+	width: 100%;
+	float: left;
+}
+.five{
+	background:#E2F8FF;
+
+}
+.pic-three{
+	margin: 80px 0 ;
+}
+.extra-two h1{
+	margin-top: 50px;
+}
+
+.six{
+	background:#F5F9EB;
+}
+.pic-four{
+	margin: 80px  0px;
+}
+.extra-three h1{
+	margin-top: 50px;
+}
+.btn-three{
+	background:#99C50A;
+	border: 0 solid;
+}
+/*Find part END*/
+/*Featured part start*/
+.featured{
+	width: 100%;
+	float: left;
+	background:#FFFFFF;
+}
+.seven h2{
+	margin-top: 50px;
+}
+.seven p{
+	margin-bottom: 50px;
+}
+.eight{
+	text-align: center;
+}
+.btn-four{
+	margin: 80px 0;
+	background: transparent;
+	color: maroon;
+
+}
+.pic-five{
+	position: relative;
+}
+.btn-five{
+	position: absolute;
+	top:170px;
+	left: 150px;
+	
+}
+.nine h5,p{
+	padding:10px 18px 10px 0;
+}
+.fund-two{
+	margin-left: 100px;
+}
+.fund-three{
+	margin: 20px 0px 10px 90px;
+}
+.underline{
+	display: block;
+	border-bottom: 1.5px solid gray;
+	width: 80%;
+
+}
+.pic-six{
+	margin: 80px 0;
+}
+/*Featured part start*/
+footer{
+	width: 100%;
+	float: left;
+	background:gray;
+}
+h6{
+	margin: 50px 0;
+}
